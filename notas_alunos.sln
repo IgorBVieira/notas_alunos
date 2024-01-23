@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notas_alunos", "notas_alunos.csproj", "{5779A4ED-188F-4E74-AEED-D006ABB42731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5779A4ED-188F-4E74-AEED-D006ABB42731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5779A4ED-188F-4E74-AEED-D006ABB42731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5779A4ED-188F-4E74-AEED-D006ABB42731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5779A4ED-188F-4E74-AEED-D006ABB42731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
